@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "TechGear X1000",
+      "price": 299.99
+    },
+    {
+      "id": 2,
+      "name": "SmartWare A500",
+      "price": 199.99
+    },
+    {
+      "id": 3,
+      "name": "EliteTech Pro300",
+      "price": 399.99
+    }
+  ]
